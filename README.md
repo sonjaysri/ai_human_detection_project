@@ -30,9 +30,12 @@ This Streamlit app detects whether a given piece of text is **AI-generated** or 
 git clone https://github.com/sonjaysri/ai_human_detection_project.git
 cd ai_human_detection_project
 
+
 2. python -m venv venv
 venv\Scripts\activate     # Windows
 # source venv/bin/activate  # macOS/Linux
+
+cd streamli_ml_app
 
 3. **Install Dependencies**
 pip install -r requirements.txt
